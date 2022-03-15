@@ -15,7 +15,7 @@ intext:Cryptocurrency Exchange intext:Bug bounty<br>
 inurl:bug bounty intext:token of gratitude<br>
 inurl:bug bounty intext:token of appreciation<br>
 inurl:vulnerability-disclosure intext:bounty<br>
-inurl /bug bounty<br><br>
+inurl /bug bounty<br>
 inurl : / security<br>
 inurl:security.txt<br>
 inurl:security "reward"<br>
