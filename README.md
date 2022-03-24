@@ -1,4 +1,4 @@
-# Bug_bounty_dorks_list:
+# Bug_bounty_dorks_list :
 inurl:security-program intext:bug bounty<br>
 intext:report a bug intext:reward<br>
 intext:"our bug bounty program" "reward"<br>
